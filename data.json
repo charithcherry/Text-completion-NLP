@@ -1,0 +1,68 @@
+{
+"NumTextMessages":14,
+"Issues":[
+    {
+      "IssueId": 1,
+       "CompanyGroupId":1,
+      "Messages": [
+        {
+          "IsFromCustomer": true,
+          "Text": "angle less for backbone"
+        },
+        {
+          "IsFromCustomer": false,
+          "Text": "PLease keep your backbone straight"
+        },
+        {
+          "IsFromCustomer": true,
+          "Text": "angle less for legs"
+        },
+        {
+          "IsFromCustomer": false,
+          "Text": "PLease keep your legs straight and stretch"
+        },
+        {
+          "IsFromCustomer": true,
+          "Text": "angle less for hand"
+        },
+        {
+          "IsFromCustomer": false,
+          "Text": "PLease keep your arms straight and stretch and relax"
+        },
+        {
+          "IsFromCustomer": true,
+          "Text": "angle good for arms"
+        },
+        {
+          "IsFromCustomer": false,
+          "Text": "good work, please continue excercise"
+        },
+        {
+          "IsFromCustomer": true
+          "Text": "angle good for legs"
+        },
+        {
+          "IsFromCustomer": false
+          "Text":"good work, please continue excercise"
+        },
+        {
+          "IsFromCustomer": true
+          "Text": "angle good for legs"
+        },
+        {
+          "IsFromCustomer": false
+          "Text":"good work, please continue excercise"
+        },
+        {
+          "IsFromCustomer": true
+          "Text": "angle good for hips"
+        },
+        {
+          "IsFromCustomer": false
+          "Text": "perfect movement continue"
+        }
+      ]
+    }
+]
+
+}

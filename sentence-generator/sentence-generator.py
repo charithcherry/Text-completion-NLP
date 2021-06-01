@@ -2,34 +2,38 @@
 # By Hannah Newman <HN860433@wcupa.edu>
 
 import random
+from csv import DictWriter
 
 # nouns & adjectives from https://github.com/janester/mad_libs
 # determiners and prepositions from handouts from my linguistics class
 # verbs from my brain
 
 # get adjectives
-with open("adjectives.txt","r") as adj_file:
+with open("adj.txt","r") as adj_file:
     adjectives = adj_file.read().split("\n")
 
 # get nouns
-with open("nouns.txt","r") as noun_file:
+with open("nou.txt","r") as noun_file:
     nouns = noun_file.read().split("\n")
 
 # get transitive verbs
-with open("verbs_tr.txt", "r") as vtr_file:
+with open("verbtr.txt", "r") as vtr_file:
     verbs_tr = vtr_file.read().split("\n")
 
 # get intransitive verbs
-with open("verbs_itr.txt", "r") as vitr_file:
+with open("verbitr.txt", "r") as vitr_file:
     verbs_itr = vitr_file.read().split("\n")
 
 # get determiners
-with open("determiners.txt", "r") as det_file:
+with open("det.txt", "r") as det_file:
     determiners = det_file.read().split("\n")
 
 # get prepositions
-with open("prepositions.txt", "r") as prep_file:
+with open("pre.txt", "r") as prep_file:
     prepositions = prep_file.read().split("\n")
+
+with open("pro.txt", "r") as pro_file:
+    pronoun = pro_file.read().split("\n")    
 
 # make a sentence!
 def S():
@@ -88,7 +92,33 @@ def det():
     return determiners[random.randint(0,len(determiners)-1)]
 def prep():
     return prepositions[random.randint(0,len(prepositions)-1)]
+def pro():
+    return pronoun[random.randint(0,len(pronoun)-1)]
 
-for x in range(100):
-    print(S())                      # generates and prints 100 sentences
+
+
+
+
+def customsentence():
+    noun=n()
+    return det()+" "+adj()+" "+prep()+" "+noun+" "+v_tr()+" "+pro()+" "+noun+" "+v_itr()
+    
+
+
+
+
+
+with open('presentences2.csv', 'w+') as f_object:
+   field_names = ['isFromCustomer','Text','index']
+   dictwriter_object = DictWriter(f_object, fieldnames=field_names)
+   dictwriter_object.writeheader()
+   for _ in range(100):
+       dict={'isFromCustomer':False,'Text':customsentence(),'index':0} 
+       if not bool(dict):
+           continue
+       else:
+           print(dict)
+           dictwriter_object.writerow(dict)
+  
+   f_object.close()
 

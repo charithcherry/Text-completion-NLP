@@ -1,6 +1,6 @@
-{"NumTextMessages":22266,"Issues":[{"IssueId":1,"Messages":[{
+{"Issues":[{"Messages":[{
           "IsFromCustomer": false,
-          "Text": "well done continue excercise"
+          "Text": "well done continue your excercise"
         },
           {
           "IsFromCustomer": false,
@@ -12,28 +12,39 @@
         },
                                                                                {
           "IsFromCustomer": false,
-          "Text": "for bicepcurl angle less for neck PLease keep your neck straight"
+          "Text": "for bicepcurl angle less for backbone PLease keep your neck straight"
         },
         {
           "IsFromCustomer": false,
           "Text": " for lunges angle less for backbone PLease keep your backbone straight"
-        }]},{"IssueId":1,"Messages":[{
+        },
+           {
           "IsFromCustomer": false,
           "Text": "angle less for legs"
-        }]},{"IssueId":2,"Messages":[{
+        },
+         {
           "IsFromCustomer": false,
           "Text": "angle less for hand"
         },
         {
           "IsFromCustomer": false,
           "Text": "angle less for hand PLease keep your arms straight and stretch and relax"
-        }]},{"IssueId":3,"Messages":[{
+        },
+          {
           "IsFromCustomer": false,
           "Text": "angle good for arms"
         },{
           "IsFromCustomer": false,
           "Text": "for bicepcurl angle less for neck PLease keep your neck straight"
-        }]},{"IssueId":4,"Messages":[{
+        },
+         {
+          "IsFromCustomer": false,
+          "Text": "angle good for arms"
+        },{
+          "IsFromCustomer": false,
+          "Text": "for bicepcurl angle less for neck PLease keep your neck straight"
+        },
+         {
           "IsFromCustomer": false,
           "Text": "angle less for backbone"
         },
@@ -60,7 +71,8 @@
           "IsFromCustomer": false,
           "Text": "angle good for arms"
         }
-       
-
-        
-]}]}
+                                                           
+    ]
+   }
+ ]
+}

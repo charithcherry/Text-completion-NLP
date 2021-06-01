@@ -1,0 +1,10 @@
+legs
+hands
+arms
+hips
+shoulders
+backbone
+neck
+ankle
+head
+knees

@@ -35,6 +35,18 @@ with open("pre.txt", "r") as prep_file:
 with open("pro.txt", "r") as pro_file:
     pronoun = pro_file.read().split("\n")    
 
+
+
+
+with open("pverb.txt", "r") as pverb_file:
+    pverb = pverb_file.read().split("\n")
+
+with open("pnoun.txt", "r") as pnoun_file:
+    pnoun = pnoun_file.read().split("\n")
+
+with open("padverb.txt", "r") as padverb_file:
+    padverb = padverb_file.read().split("\n")
+
 # make a sentence!
 def S():
     # every sentence has a noun phrase and a verb phrase
@@ -97,6 +109,13 @@ def pro():
 
 
 
+def adverb():
+        return padverb[random.randint(0,len(padverb)-1)]    
+def verb():
+        return pverb[random.randint(0,len(pverb)-1)]   
+def no():
+        return pnoun[random.randint(0,len([pnoun])-1)]
+
 
 
 def customsentence():
@@ -104,21 +123,22 @@ def customsentence():
     return det()+" "+adj()+" "+prep()+" "+noun+" "+v_tr()+" "+pro()+" "+noun+" "+v_itr()
     
 
+def customsentence2():
+    ad=adverb()
+    if ad!="non":
+       return verb()+" "+n()+" "+ad
+    else:
+        return verb()+" "+n()
 
 
-
-
-with open('presentences2.csv', 'w+') as f_object:
-   field_names = ['isFromCustomer','Text','index']
+with open('presentences3.csv', 'w+') as f_object:
+   field_names = ['IsFromCustomer','Text','index']
    dictwriter_object = DictWriter(f_object, fieldnames=field_names)
    dictwriter_object.writeheader()
    for _ in range(100):
-       dict={'isFromCustomer':False,'Text':customsentence(),'index':0} 
-       if not bool(dict):
-           continue
-       else:
-           print(dict)
-           dictwriter_object.writerow(dict)
+       dict={'IsFromCustomer':False,'Text':customsentence2(),'index':0} 
+       print(dict)
+       dictwriter_object.writerow(dict)
   
    f_object.close()
 

@@ -1,0 +1,5 @@
+upwards
+backwards
+away
+down
+non

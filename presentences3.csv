@@ -1,101 +1,2007 @@
-IsFromCustomer,Text,index
-False,draw shoulders backwards,0
-False,align head backwards,0
-False,align head down,0
-False,align shoulders backwards,0
-False,straighten neck down,0
-False,reach head down,0
-False,bend ankle away,0
-False,straighten backbone away,0
-False,align legs down,0
-False,bend arms down,0
-False,bend arms upwards,0
-False,reach shoulders,0
-False,relax arms,0
-False,reach head backwards,0
-False,draw arms away,0
-False,straighten hips,0
-False,reach neck down,0
-False,relax legs away,0
-False,bend neck upwards,0
-False,draw ankle,0
-False,relax neck,0
-False,align head,0
-False,bend arms down,0
-False,straighten legs upwards,0
-False,draw hips backwards,0
-False,align hands backwards,0
-False,relax ankle backwards,0
-False,draw knees away,0
-False,draw head down,0
-False,relax  upwards,0
-False,draw legs backwards,0
-False,draw neck away,0
-False,reach shoulders backwards,0
-False,relax ankle,0
-False,draw head upwards,0
-False,bend head upwards,0
-False,straighten  away,0
-False,draw hips,0
-False,relax  away,0
-False,draw shoulders,0
-False,align ankle upwards,0
-False,bend head away,0
-False,align legs,0
-False,align hands upwards,0
-False,bend shoulders down,0
-False,bend ankle down,0
-False,draw  upwards,0
-False,bend hands,0
-False,relax  backwards,0
-False,relax ,0
-False,align knees down,0
-False,straighten backbone away,0
-False,straighten hands down,0
-False,bend hips backwards,0
-False,bend neck upwards,0
-False,align arms down,0
-False,draw neck backwards,0
-False,draw legs away,0
-False,draw knees down,0
-False,align head upwards,0
-False,straighten legs backwards,0
-False,straighten backbone away,0
-False,relax hands down,0
-False,draw ankle away,0
-False,straighten knees upwards,0
-False,align ankle away,0
-False,draw neck backwards,0
-False,align legs upwards,0
-False,relax shoulders backwards,0
-False,align hips upwards,0
-False,draw knees backwards,0
-False,draw neck away,0
-False,relax legs backwards,0
-False,draw ankle upwards,0
-False,bend knees upwards,0
-False,reach legs,0
-False,align head backwards,0
-False,bend shoulders away,0
-False,bend backbone,0
-False,draw arms upwards,0
-False,reach knees,0
-False,reach hips down,0
-False,draw knees backwards,0
-False,straighten hips away,0
-False,align arms upwards,0
-False,reach ankle backwards,0
-False,bend head upwards,0
-False,bend head upwards,0
-False,reach backbone,0
-False,align knees backwards,0
-False,reach hands away,0
-False,bend backbone,0
-False,relax ankle,0
-False,relax hands upwards,0
-False,align knees,0
-False,draw ankle upwards,0
-False,draw hips,0
-False,bend arms backwards,0
-False,reach knees away,0
-False,draw knees backwards,0
+IsFromCustomer,Text,index
+
+False,relax arms upwards,0
+
+False,straighten ankle backwards,0
+
+False,bend knees upwards,0
+
+False,relax knees ,0
+
+False,align hips down,0
+
+False,draw knees upwards,0
+
+False,straighten hips backwards,0
+
+False,reach hands ,0
+
+False,reach shoulders,0
+
+False,bend ankle down,0
+
+False,reach legs upwards,0
+
+False,bend knees backwards,0
+
+False,straighten backbone down,0
+
+False,draw  down,0
+
+False,reach backbone upwards,0
+
+False,reach legs ,0
+
+False,draw backbone down,0
+
+False,reach knees backwards,0
+
+False,straighten knees,0
+
+False,align hands backwards,0
+
+False,bend  ,0
+
+False,align  upwards,0
+
+False,straighten hands down,0
+
+False,reach ankle ,0
+
+False,straighten backbone,0
+
+False,relax hands backwards,0
+
+False,reach neck ,0
+
+False,relax neck down,0
+
+False,straighten head upwards,0
+
+False,bend head down,0
+
+False,relax ankle down,0
+
+False,bend legs,0
+
+False,align backbone down,0
+
+False,draw hips ,0
+
+False,straighten  ,0
+
+False,straighten neck ,0
+
+False,straighten legs down,0
+
+False,draw  down,0
+
+False,bend knees,0
+
+False,reach ankle down,0
+
+False,reach backbone,0
+
+False,align backbone down,0
+
+False,relax legs backwards,0
+
+False,draw legs,0
+
+False,straighten legs,0
+
+False,draw  down,0
+
+False,relax neck backwards,0
+
+False,bend shoulders backwards,0
+
+False,draw legs down,0
+
+False,reach knees,0
+
+False,relax hands backwards,0
+
+False,straighten knees backwards,0
+
+False,draw shoulders upwards,0
+
+False,reach ankle upwards,0
+
+False,bend legs ,0
+
+False,reach backbone,0
+
+False,relax shoulders down,0
+
+False,bend neck down,0
+
+False,relax hips upwards,0
+
+False,bend ,0
+
+False,align shoulders backwards,0
+
+False,straighten neck backwards,0
+
+False,straighten knees,0
+
+False,relax legs,0
+
+False,draw head backwards,0
+
+False,relax shoulders upwards,0
+
+False,align neck upwards,0
+
+False,draw neck,0
+
+False,draw legs upwards,0
+
+False,relax legs down,0
+
+False,bend hands ,0
+
+False,draw arms down,0
+
+False,reach ankle upwards,0
+
+False,align neck down,0
+
+False,relax backbone down,0
+
+False,align hands backwards,0
+
+False,relax backbone,0
+
+False,straighten legs down,0
+
+False,draw  upwards,0
+
+False,draw ankle backwards,0
+
+False,relax hands down,0
+
+False,bend hips upwards,0
+
+False,relax legs upwards,0
+
+False,draw ankle,0
+
+False,align hands backwards,0
+
+False,bend head ,0
+
+False,bend hips backwards,0
+
+False,straighten  down,0
+
+False,bend legs upwards,0
+
+False,draw arms upwards,0
+
+False,straighten ankle upwards,0
+
+False,draw neck,0
+
+False,draw neck ,0
+
+False,bend legs upwards,0
+
+False,reach ,0
+
+False,bend legs,0
+
+False,relax knees upwards,0
+
+False,draw hips down,0
+
+False,straighten shoulders,0
+
+False,bend shoulders,0
+
+False,bend ankle down,0
+
+False,reach ankle down,0
+
+False,relax shoulders down,0
+
+False,straighten neck backwards,0
+
+False,reach hands ,0
+
+False,draw hips upwards,0
+
+False,straighten shoulders,0
+
+False,draw  ,0
+
+False,reach knees upwards,0
+
+False,align knees ,0
+
+False,reach shoulders down,0
+
+False,draw neck down,0
+
+False,bend arms,0
+
+False,straighten arms backwards,0
+
+False,reach  upwards,0
+
+False,draw shoulders down,0
+
+False,draw ankle ,0
+
+False,bend ankle ,0
+
+False,reach legs down,0
+
+False,align neck ,0
+
+False,reach shoulders backwards,0
+
+False,relax hands down,0
+
+False,draw shoulders backwards,0
+
+False,relax head,0
+
+False,straighten neck upwards,0
+
+False,reach neck backwards,0
+
+False,relax ankle,0
+
+False,straighten shoulders down,0
+
+False,reach knees ,0
+
+False,relax shoulders ,0
+
+False,draw shoulders upwards,0
+
+False,align arms ,0
+
+False,bend ankle upwards,0
+
+False,reach hands backwards,0
+
+False,align head down,0
+
+False,align ankle ,0
+
+False,straighten knees ,0
+
+False,align neck,0
+
+False,align head ,0
+
+False,align shoulders ,0
+
+False,reach  upwards,0
+
+False,reach knees ,0
+
+False,draw neck upwards,0
+
+False,straighten shoulders,0
+
+False,straighten knees ,0
+
+False,align hands backwards,0
+
+False,relax head ,0
+
+False,reach head upwards,0
+
+False,reach hands ,0
+
+False,align neck,0
+
+False,align hands ,0
+
+False,bend  ,0
+
+False,bend backbone upwards,0
+
+False,draw shoulders backwards,0
+
+False,reach legs down,0
+
+False,reach arms backwards,0
+
+False,draw arms backwards,0
+
+False,reach hips upwards,0
+
+False,bend head down,0
+
+False,align shoulders,0
+
+False,straighten arms down,0
+
+False,align ankle,0
+
+False,reach  backwards,0
+
+False,bend legs,0
+
+False,bend knees backwards,0
+
+False,bend shoulders upwards,0
+
+False,draw ankle down,0
+
+False,draw  down,0
+
+False,reach backbone,0
+
+False,bend shoulders ,0
+
+False,reach arms ,0
+
+False,straighten legs,0
+
+False,straighten shoulders,0
+
+False,straighten ankle ,0
+
+False,align ankle down,0
+
+False,reach ankle upwards,0
+
+False,draw head backwards,0
+
+False,reach head upwards,0
+
+False,bend knees backwards,0
+
+False,reach  upwards,0
+
+False,straighten neck upwards,0
+
+False,align arms backwards,0
+
+False,relax backbone upwards,0
+
+False,reach hands upwards,0
+
+False,reach neck,0
+
+False,straighten hands,0
+
+False,bend knees,0
+
+False,straighten shoulders,0
+
+False,bend head,0
+
+False,bend hands backwards,0
+
+False,straighten hands,0
+
+False,reach legs down,0
+
+False,relax arms,0
+
+False,reach head down,0
+
+False,relax shoulders backwards,0
+
+False,align hands upwards,0
+
+False,align backbone backwards,0
+
+False,align hands backwards,0
+
+False,reach hips,0
+
+False,bend arms ,0
+
+False,reach head down,0
+
+False,align hips backwards,0
+
+False,relax ankle upwards,0
+
+False,bend hands backwards,0
+
+False,straighten hips ,0
+
+False,reach shoulders backwards,0
+
+False,bend head upwards,0
+
+False,relax shoulders backwards,0
+
+False,bend ankle upwards,0
+
+False,relax head,0
+
+False,draw knees,0
+
+False,bend head backwards,0
+
+False,align hands ,0
+
+False,relax knees,0
+
+False,relax ankle upwards,0
+
+False,align hips upwards,0
+
+False,relax hips,0
+
+False,straighten ankle down,0
+
+False,align head down,0
+
+False,straighten arms ,0
+
+False,align arms,0
+
+False,draw neck,0
+
+False,bend ankle down,0
+
+False,reach legs backwards,0
+
+False,relax arms down,0
+
+False,relax ankle ,0
+
+False,draw backbone ,0
+
+False,align hips backwards,0
+
+False,relax  down,0
+
+False,relax  upwards,0
+
+False,straighten hands ,0
+
+False,straighten arms down,0
+
+False,straighten hands ,0
+
+False,relax arms down,0
+
+False,bend knees ,0
+
+False,straighten hands backwards,0
+
+False,draw arms down,0
+
+False,align legs backwards,0
+
+False,straighten hips,0
+
+False,reach  backwards,0
+
+False,straighten shoulders upwards,0
+
+False,draw ankle,0
+
+False,draw legs down,0
+
+False,relax neck upwards,0
+
+False,align neck down,0
+
+False,relax neck ,0
+
+False,straighten arms down,0
+
+False,straighten backbone down,0
+
+False,draw arms,0
+
+False,relax legs upwards,0
+
+False,bend ankle ,0
+
+False,bend hands,0
+
+False,align hips down,0
+
+False,bend ankle ,0
+
+False,straighten ankle,0
+
+False,relax legs backwards,0
+
+False,reach knees upwards,0
+
+False,straighten  upwards,0
+
+False,relax backbone down,0
+
+False,bend hands backwards,0
+
+False,align arms,0
+
+False,bend neck backwards,0
+
+False,straighten hips upwards,0
+
+False,draw ankle ,0
+
+False,relax hips,0
+
+False,bend shoulders,0
+
+False,align arms ,0
+
+False,bend  backwards,0
+
+False,relax knees,0
+
+False,reach arms down,0
+
+False,reach  backwards,0
+
+False,bend hips upwards,0
+
+False,reach arms down,0
+
+False,draw hips backwards,0
+
+False,draw hips down,0
+
+False,bend hips backwards,0
+
+False,bend ankle ,0
+
+False,bend ankle backwards,0
+
+False,reach legs ,0
+
+False,bend legs ,0
+
+False,draw neck backwards,0
+
+False,draw neck ,0
+
+False,align  upwards,0
+
+False,reach knees backwards,0
+
+False,reach knees down,0
+
+False,relax shoulders,0
+
+False,align hips down,0
+
+False,relax ankle,0
+
+False,align head ,0
+
+False,draw neck ,0
+
+False,align  backwards,0
+
+False,align  upwards,0
+
+False,relax hips backwards,0
+
+False,align shoulders,0
+
+False,relax hips ,0
+
+False,draw hands,0
+
+False,bend hips ,0
+
+False,straighten shoulders ,0
+
+False,relax arms down,0
+
+False,straighten hands ,0
+
+False,relax shoulders,0
+
+False,bend hips,0
+
+False,relax ankle backwards,0
+
+False,align backbone ,0
+
+False,align legs,0
+
+False,bend knees down,0
+
+False,reach knees down,0
+
+False,relax shoulders ,0
+
+False,straighten knees backwards,0
+
+False,straighten neck,0
+
+False,relax  upwards,0
+
+False,relax backbone backwards,0
+
+False,align  down,0
+
+False,draw arms,0
+
+False,reach arms backwards,0
+
+False,bend hips down,0
+
+False,bend knees down,0
+
+False,draw neck ,0
+
+False,relax hands,0
+
+False,straighten shoulders,0
+
+False,bend shoulders down,0
+
+False,reach ankle upwards,0
+
+False,reach knees down,0
+
+False,relax knees backwards,0
+
+False,straighten hips ,0
+
+False,bend ankle backwards,0
+
+False,relax knees ,0
+
+False,align shoulders ,0
+
+False,relax ankle,0
+
+False,reach hands backwards,0
+
+False,draw hands ,0
+
+False,reach shoulders down,0
+
+False,relax hands down,0
+
+False,relax ankle upwards,0
+
+False,relax ankle down,0
+
+False,align ankle down,0
+
+False,bend hands backwards,0
+
+False,reach shoulders ,0
+
+False,align ankle ,0
+
+False,reach hands upwards,0
+
+False,bend neck backwards,0
+
+False,draw knees,0
+
+False,draw head upwards,0
+
+False,straighten knees down,0
+
+False,relax shoulders down,0
+
+False,reach arms ,0
+
+False,bend backbone down,0
+
+False,align ankle upwards,0
+
+False,relax arms,0
+
+False,bend shoulders,0
+
+False,straighten ankle ,0
+
+False,straighten  upwards,0
+
+False,draw hands down,0
+
+False,draw shoulders ,0
+
+False,draw knees upwards,0
+
+False,relax backbone,0
+
+False,draw shoulders backwards,0
+
+False,align hips upwards,0
+
+False,bend backbone down,0
+
+False,straighten hands upwards,0
+
+False,relax ankle upwards,0
+
+False,reach knees backwards,0
+
+False,straighten  down,0
+
+False,bend hips down,0
+
+False,draw neck down,0
+
+False,straighten ankle ,0
+
+False,draw legs down,0
+
+False,relax ankle upwards,0
+
+False,relax backbone ,0
+
+False,reach ,0
+
+False,bend neck upwards,0
+
+False,draw hands upwards,0
+
+False,reach hips,0
+
+False,reach head,0
+
+False,reach legs backwards,0
+
+False,straighten neck down,0
+
+False,bend legs,0
+
+False,relax shoulders ,0
+
+False,reach hips upwards,0
+
+False,reach  upwards,0
+
+False,bend hips down,0
+
+False,draw head ,0
+
+False,draw neck backwards,0
+
+False,reach backbone upwards,0
+
+False,reach neck ,0
+
+False,relax head,0
+
+False,align arms upwards,0
+
+False,reach hands upwards,0
+
+False,reach arms upwards,0
+
+False,align knees backwards,0
+
+False,straighten legs upwards,0
+
+False,align arms down,0
+
+False,relax ankle,0
+
+False,relax ankle,0
+
+False,draw neck down,0
+
+False,align head down,0
+
+False,bend hands ,0
+
+False,reach knees backwards,0
+
+False,draw shoulders,0
+
+False,draw hips ,0
+
+False,bend neck upwards,0
+
+False,relax neck ,0
+
+False,relax arms down,0
+
+False,reach knees ,0
+
+False,draw legs,0
+
+False,straighten  ,0
+
+False,relax neck upwards,0
+
+False,bend hands backwards,0
+
+False,reach  down,0
+
+False,draw legs down,0
+
+False,draw head upwards,0
+
+False,draw shoulders backwards,0
+
+False,align hips ,0
+
+False,straighten neck down,0
+
+False,align neck down,0
+
+False,align neck backwards,0
+
+False,relax ankle down,0
+
+False,reach  backwards,0
+
+False,reach knees down,0
+
+False,relax hips ,0
+
+False,straighten hands backwards,0
+
+False,bend hips ,0
+
+False,relax  upwards,0
+
+False,reach legs down,0
+
+False,straighten head ,0
+
+False,reach head upwards,0
+
+False,relax  down,0
+
+False,relax  upwards,0
+
+False,draw knees backwards,0
+
+False,straighten hips,0
+
+False,bend ankle down,0
+
+False,bend arms backwards,0
+
+False,relax knees ,0
+
+False,align backbone ,0
+
+False,straighten backbone ,0
+
+False,align hands ,0
+
+False,draw arms backwards,0
+
+False,relax legs,0
+
+False,relax ankle,0
+
+False,bend arms ,0
+
+False,relax head down,0
+
+False,reach arms upwards,0
+
+False,align backbone backwards,0
+
+False,reach head upwards,0
+
+False,straighten legs upwards,0
+
+False,align legs,0
+
+False,align arms upwards,0
+
+False,relax  ,0
+
+False,relax neck backwards,0
+
+False,align neck upwards,0
+
+False,bend backbone down,0
+
+False,reach  ,0
+
+False,align backbone,0
+
+False,reach knees upwards,0
+
+False,relax neck ,0
+
+False,bend shoulders ,0
+
+False,align  down,0
+
+False,draw neck upwards,0
+
+False,relax backbone,0
+
+False,reach neck backwards,0
+
+False,relax backbone,0
+
+False,straighten ankle,0
+
+False,straighten hips down,0
+
+False,bend hands upwards,0
+
+False,relax legs down,0
+
+False,draw head ,0
+
+False,draw  ,0
+
+False,reach backbone upwards,0
+
+False,align ,0
+
+False,align head,0
+
+False,relax neck down,0
+
+False,relax knees,0
+
+False,relax arms backwards,0
+
+False,relax hands down,0
+
+False,bend  ,0
+
+False,bend hands upwards,0
+
+False,align head,0
+
+False,bend ankle backwards,0
+
+False,relax hips upwards,0
+
+False,bend legs ,0
+
+False,align shoulders backwards,0
+
+False,align head ,0
+
+False,draw ankle ,0
+
+False,draw hips upwards,0
+
+False,draw ankle backwards,0
+
+False,straighten head upwards,0
+
+False,draw hands ,0
+
+False,relax  down,0
+
+False,bend hips ,0
+
+False,straighten head backwards,0
+
+False,reach backbone backwards,0
+
+False,relax neck ,0
+
+False,bend hands upwards,0
+
+False,bend neck,0
+
+False,align legs ,0
+
+False,draw  ,0
+
+False,relax legs backwards,0
+
+False,straighten legs down,0
+
+False,straighten ankle down,0
+
+False,align hands backwards,0
+
+False,straighten neck ,0
+
+False,draw hips backwards,0
+
+False,align ankle down,0
+
+False,bend knees upwards,0
+
+False,reach hands backwards,0
+
+False,relax knees down,0
+
+False,draw  down,0
+
+False,straighten knees ,0
+
+False,draw hands backwards,0
+
+False,relax  backwards,0
+
+False,straighten backbone,0
+
+False,reach ankle upwards,0
+
+False,draw hips upwards,0
+
+False,relax shoulders,0
+
+False,reach hips down,0
+
+False,draw  ,0
+
+False,reach  upwards,0
+
+False,bend shoulders ,0
+
+False,relax ankle ,0
+
+False,draw legs ,0
+
+False,align legs down,0
+
+False,draw ankle upwards,0
+
+False,reach hands backwards,0
+
+False,align backbone,0
+
+False,relax hips down,0
+
+False,align  backwards,0
+
+False,align arms,0
+
+False,align backbone upwards,0
+
+False,bend backbone ,0
+
+False,bend arms upwards,0
+
+False,bend hands upwards,0
+
+False,relax backbone backwards,0
+
+False,reach head ,0
+
+False,relax shoulders down,0
+
+False,straighten ankle down,0
+
+False,reach head ,0
+
+False,relax head down,0
+
+False,draw knees down,0
+
+False,align ankle ,0
+
+False,relax ankle,0
+
+False,straighten ,0
+
+False,reach hands upwards,0
+
+False,relax shoulders upwards,0
+
+False,bend backbone ,0
+
+False,relax neck,0
+
+False,draw shoulders upwards,0
+
+False,draw neck backwards,0
+
+False,relax hands ,0
+
+False,straighten knees down,0
+
+False,bend shoulders,0
+
+False,relax legs upwards,0
+
+False,bend shoulders upwards,0
+
+False,relax hands upwards,0
+
+False,draw hands ,0
+
+False,straighten arms upwards,0
+
+False,bend hips upwards,0
+
+False,bend legs ,0
+
+False,draw legs backwards,0
+
+False,straighten shoulders down,0
+
+False,draw  down,0
+
+False,reach hips upwards,0
+
+False,bend hands down,0
+
+False,draw shoulders backwards,0
+
+False,straighten ,0
+
+False,bend knees ,0
+
+False,draw neck ,0
+
+False,straighten backbone down,0
+
+False,reach knees ,0
+
+False,align hips,0
+
+False,reach backbone,0
+
+False,align shoulders upwards,0
+
+False,straighten hands backwards,0
+
+False,reach backbone upwards,0
+
+False,draw head down,0
+
+False,straighten head,0
+
+False,bend arms,0
+
+False,relax hips ,0
+
+False,relax  upwards,0
+
+False,straighten ankle upwards,0
+
+False,align shoulders upwards,0
+
+False,align legs backwards,0
+
+False,relax arms upwards,0
+
+False,relax shoulders backwards,0
+
+False,align arms,0
+
+False,align ,0
+
+False,draw  upwards,0
+
+False,reach knees down,0
+
+False,straighten arms ,0
+
+False,bend head,0
+
+False,reach legs ,0
+
+False,bend legs backwards,0
+
+False,align hips backwards,0
+
+False,bend ankle upwards,0
+
+False,straighten neck down,0
+
+False,bend knees ,0
+
+False,bend backbone upwards,0
+
+False,align hands,0
+
+False,reach arms,0
+
+False,reach head ,0
+
+False,straighten knees ,0
+
+False,bend hips upwards,0
+
+False,align hips,0
+
+False,relax head,0
+
+False,align shoulders upwards,0
+
+False,draw neck backwards,0
+
+False,bend neck backwards,0
+
+False,straighten neck down,0
+
+False,align  backwards,0
+
+False,align knees backwards,0
+
+False,straighten shoulders ,0
+
+False,straighten hands backwards,0
+
+False,align backbone upwards,0
+
+False,relax hands backwards,0
+
+False,align knees ,0
+
+False,straighten  ,0
+
+False,draw hips backwards,0
+
+False,relax knees backwards,0
+
+False,align head upwards,0
+
+False,align ,0
+
+False,bend hips down,0
+
+False,draw head ,0
+
+False,relax knees,0
+
+False,reach hands backwards,0
+
+False,straighten neck,0
+
+False,relax head backwards,0
+
+False,bend ankle ,0
+
+False,reach hands ,0
+
+False,draw arms backwards,0
+
+False,bend ankle ,0
+
+False,reach hands down,0
+
+False,bend head ,0
+
+False,relax arms ,0
+
+False,relax neck ,0
+
+False,draw head upwards,0
+
+False,relax shoulders ,0
+
+False,align backbone upwards,0
+
+False,bend hands ,0
+
+False,bend ankle down,0
+
+False,draw neck ,0
+
+False,bend ankle upwards,0
+
+False,straighten hips backwards,0
+
+False,draw neck ,0
+
+False,reach arms down,0
+
+False,bend hands backwards,0
+
+False,draw neck backwards,0
+
+False,reach hips backwards,0
+
+False,draw ankle,0
+
+False,align  down,0
+
+False,straighten hands backwards,0
+
+False,align legs ,0
+
+False,relax head backwards,0
+
+False,relax neck ,0
+
+False,bend knees ,0
+
+False,bend neck down,0
+
+False,bend neck,0
+
+False,bend ankle backwards,0
+
+False,bend hips backwards,0
+
+False,relax backbone upwards,0
+
+False,align legs ,0
+
+False,relax shoulders down,0
+
+False,bend arms ,0
+
+False,straighten shoulders backwards,0
+
+False,reach backbone down,0
+
+False,reach hips upwards,0
+
+False,reach backbone,0
+
+False,straighten ankle upwards,0
+
+False,bend  upwards,0
+
+False,straighten ankle upwards,0
+
+False,bend arms down,0
+
+False,straighten hips down,0
+
+False,draw knees down,0
+
+False,reach shoulders upwards,0
+
+False,draw neck backwards,0
+
+False,relax shoulders,0
+
+False,straighten head ,0
+
+False,draw hips down,0
+
+False,draw legs ,0
+
+False,relax legs,0
+
+False,align neck down,0
+
+False,straighten arms ,0
+
+False,reach knees,0
+
+False,draw head upwards,0
+
+False,straighten backbone backwards,0
+
+False,relax legs down,0
+
+False,relax ,0
+
+False,relax arms down,0
+
+False,align ,0
+
+False,bend head upwards,0
+
+False,bend neck down,0
+
+False,relax hands,0
+
+False,straighten legs backwards,0
+
+False,reach neck down,0
+
+False,draw knees upwards,0
+
+False,draw backbone down,0
+
+False,bend arms backwards,0
+
+False,align hips ,0
+
+False,relax knees ,0
+
+False,bend shoulders,0
+
+False,reach head down,0
+
+False,relax ankle ,0
+
+False,align hands ,0
+
+False,align backbone,0
+
+False,bend head ,0
+
+False,draw hands down,0
+
+False,reach hands down,0
+
+False,reach shoulders,0
+
+False,straighten hips,0
+
+False,reach hands backwards,0
+
+False,bend neck upwards,0
+
+False,relax neck,0
+
+False,draw shoulders ,0
+
+False,straighten neck backwards,0
+
+False,reach shoulders backwards,0
+
+False,bend hips upwards,0
+
+False,reach hips,0
+
+False,bend backbone backwards,0
+
+False,align ankle,0
+
+False,draw head,0
+
+False,draw arms ,0
+
+False,relax  ,0
+
+False,reach ankle backwards,0
+
+False,draw ankle upwards,0
+
+False,reach shoulders down,0
+
+False,straighten arms,0
+
+False,relax legs backwards,0
+
+False,bend knees down,0
+
+False,draw ankle ,0
+
+False,align ankle backwards,0
+
+False,straighten shoulders upwards,0
+
+False,bend ankle upwards,0
+
+False,align ankle down,0
+
+False,straighten hips down,0
+
+False,relax neck backwards,0
+
+False,align knees down,0
+
+False,straighten backbone,0
+
+False,bend shoulders ,0
+
+False,relax shoulders down,0
+
+False,straighten  upwards,0
+
+False,bend hands backwards,0
+
+False,draw backbone,0
+
+False,align knees ,0
+
+False,straighten ankle backwards,0
+
+False,bend  upwards,0
+
+False,align neck ,0
+
+False,draw hands ,0
+
+False,relax shoulders upwards,0
+
+False,straighten arms,0
+
+False,reach hips ,0
+
+False,bend knees upwards,0
+
+False,straighten arms down,0
+
+False,bend ,0
+
+False,straighten  down,0
+
+False,align ankle backwards,0
+
+False,straighten ankle backwards,0
+
+False,reach shoulders,0
+
+False,draw hands backwards,0
+
+False,bend hips down,0
+
+False,straighten  upwards,0
+
+False,straighten ,0
+
+False,relax neck down,0
+
+False,align arms upwards,0
+
+False,draw hands ,0
+
+False,relax neck,0
+
+False,straighten shoulders backwards,0
+
+False,straighten ankle backwards,0
+
+False,bend ankle,0
+
+False,relax neck ,0
+
+False,align legs backwards,0
+
+False,align hands ,0
+
+False,bend head,0
+
+False,straighten  backwards,0
+
+False,bend head upwards,0
+
+False,reach ,0
+
+False,align hips ,0
+
+False,reach arms,0
+
+False,bend legs,0
+
+False,relax head upwards,0
+
+False,bend neck,0
+
+False,straighten backbone down,0
+
+False,reach knees upwards,0
+
+False,align hips,0
+
+False,bend shoulders,0
+
+False,draw legs ,0
+
+False,bend legs upwards,0
+
+False,draw knees,0
+
+False,align hips upwards,0
+
+False,align arms down,0
+
+False,relax  backwards,0
+
+False,align knees upwards,0
+
+False,reach arms down,0
+
+False,draw legs backwards,0
+
+False,straighten shoulders,0
+
+False,reach legs backwards,0
+
+False,reach neck ,0
+
+False,draw ankle,0
+
+False,reach shoulders down,0
+
+False,bend shoulders ,0
+
+False,straighten backbone,0
+
+False,align shoulders upwards,0
+
+False,relax shoulders down,0
+
+False,relax legs down,0
+
+False,relax shoulders upwards,0
+
+False,draw backbone,0
+
+False,draw arms ,0
+
+False,bend neck upwards,0
+
+False,align backbone down,0
+
+False,draw ankle backwards,0
+
+False,relax backbone,0
+
+False,draw hands,0
+
+False,reach hands backwards,0
+
+False,bend backbone backwards,0
+
+False,straighten hips down,0
+
+False,draw  backwards,0
+
+False,align hips ,0
+
+False,draw knees upwards,0
+
+False,relax neck backwards,0
+
+False,bend neck upwards,0
+
+False,draw  upwards,0
+
+False,reach ankle down,0
+
+False,straighten arms upwards,0
+
+False,bend  upwards,0
+
+False,straighten ankle backwards,0
+
+False,straighten ,0
+
+False,reach  down,0
+
+False,relax  ,0
+
+False,draw  upwards,0
+
+False,reach hips backwards,0
+
+False,align head down,0
+
+False,bend hands ,0
+
+False,align legs down,0
+
+False,reach arms,0
+
+False,bend neck upwards,0
+
+False,relax shoulders upwards,0
+
+False,straighten  down,0
+
+False,relax neck upwards,0
+
+False,bend arms backwards,0
+
+False,relax neck upwards,0
+
+False,align legs backwards,0
+
+False,bend knees backwards,0
+
+False,align ankle,0
+
+False,relax hips down,0
+
+False,relax knees down,0
+
+False,draw hips upwards,0
+
+False,align neck,0
+
+False,bend backbone backwards,0
+
+False,draw legs,0
+
+False,align hips down,0
+
+False,reach head,0
+
+False,reach hands upwards,0
+
+False,straighten hands,0
+
+False,relax backbone ,0
+
+False,draw backbone,0
+
+False,relax backbone down,0
+
+False,relax hips,0
+
+False,reach legs backwards,0
+
+False,relax  upwards,0
+
+False,bend head backwards,0
+
+False,straighten shoulders upwards,0
+
+False,relax neck backwards,0
+
+False,align knees ,0
+
+False,draw head down,0
+
+False,bend hips,0
+
+False,straighten arms,0
+
+False,draw legs down,0
+
+False,align backbone ,0
+
+False,draw knees upwards,0
+
+False,bend shoulders upwards,0
+
+False,align hands,0
+
+False,straighten backbone ,0
+
+False,draw legs ,0
+
+False,reach head,0
+
+False,bend  backwards,0
+
+False,draw legs upwards,0
+
+False,align hands ,0
+
+False,straighten head down,0
+
+False,reach  upwards,0
+
+False,relax head ,0
+
+False,bend head,0
+
+False,draw hands ,0
+
+False,draw ankle ,0
+
+False,straighten  ,0
+
+False,straighten shoulders,0
+
+False,relax hips,0
+
+False,draw knees upwards,0
+
+False,relax knees upwards,0
+
+False,straighten  down,0
+
+False,bend head backwards,0
+
+False,relax arms upwards,0
+
+False,bend knees upwards,0
+
+False,draw  backwards,0
+
+False,draw backbone upwards,0
+
+False,straighten ,0
+
+False,relax arms,0
+
+False,reach ankle ,0
+
+False,align arms backwards,0
+
+False,relax ankle,0
+
+False,straighten knees upwards,0
+
+False,bend ankle down,0
+
+False,draw head down,0
+
+False,straighten head,0
+
+False,straighten ankle backwards,0
+
+False,align ,0
+
+False,reach knees upwards,0
+
+False,reach knees,0
+
+False,align shoulders upwards,0
+
+False,align hips upwards,0
+
+False,bend arms ,0
+
+False,straighten ankle ,0
+
+False,draw ,0
+
+False,relax arms upwards,0
+
+False,straighten ankle,0
+
+False,reach backbone ,0
+
+False,bend hips upwards,0
+
+False,bend knees,0
+
+False,relax neck ,0
+
+False,reach ,0
+
+False,align neck,0
+
+False,reach backbone ,0
+
+False,draw  down,0
+
+False,draw  down,0
+
+False,bend hips down,0
+
+False,bend legs upwards,0
+
+False,draw ankle down,0
+
+False,draw neck backwards,0
+
+False,align legs down,0
+
+False,align knees upwards,0
+
+False,straighten ,0
+
+False,reach hands upwards,0
+
+False,reach neck down,0
+
+False,straighten knees,0
+
+False,relax shoulders upwards,0
+
+False,reach backbone upwards,0
+
+False,draw arms,0
+
+False,reach hands ,0
+
+False,reach hips upwards,0
+
+False,draw neck upwards,0
+
+False,bend backbone,0
+
+False,straighten ankle,0
+
+False,draw legs down,0
+
+False,draw neck down,0
+
+False,relax arms ,0
+
+False,straighten knees backwards,0
+
+False,reach shoulders backwards,0
+
+False,straighten legs down,0
+
+False,draw  upwards,0
+
+False,reach hips,0
+
+False,straighten head ,0
+
+False,align ankle down,0
+
+False,draw hips,0
+
+False,bend knees ,0
+
+False,reach head ,0
+
+False,align neck down,0
+
+False,bend ,0
+
+False,straighten arms down,0
+
+False,bend arms,0
+
+False,straighten neck ,0
+
+False,reach hands upwards,0
+
+False,draw knees,0
+
+False,bend hands ,0
+
+False,straighten neck ,0
+
+False,reach legs down,0
+
+False,draw shoulders down,0
+
+False,straighten hands,0
+
+False,straighten knees ,0
+
+False,bend head upwards,0
+
+False,bend backbone backwards,0
+
+False,reach legs ,0
+
+False,bend neck ,0
+
+False,align neck upwards,0
+
+False,bend hips down,0
+
+False,straighten ankle,0
+
+False,bend ankle ,0
+
+False,reach shoulders ,0
+
+False,reach arms down,0
+
+False,reach hands upwards,0
+
+False,draw head upwards,0
+
+False,straighten knees upwards,0
+
+False,reach shoulders,0
+
+False,bend shoulders down,0
+
+False,draw arms backwards,0
+
+False,align knees ,0
+
+False,straighten  down,0
+
+False,bend arms backwards,0
+
+False,relax hands upwards,0
+
+False,straighten backbone down,0
+
+False,bend hands down,0
+
+False,align head,0
+
+False,straighten legs backwards,0
+
+False,relax arms ,0
+
+False,draw ,0
+
+False,relax neck upwards,0
+
+False,relax ankle ,0
+
+False,align backbone backwards,0
+
+False,relax hips upwards,0
+
+False,reach backbone upwards,0
+
+False,align arms ,0
+
+False,reach  down,0
+
+False,relax legs ,0
+
+False,straighten arms upwards,0
+
+False,align  upwards,0
+
+False,straighten hips sideways,0
+
+False,straighten knees sideways,0
+
+False,good well done,0

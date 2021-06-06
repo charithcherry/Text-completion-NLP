@@ -135,7 +135,7 @@ with open('presentences3.csv', 'w+') as f_object:
    field_names = ['IsFromCustomer','Text','index']
    dictwriter_object = DictWriter(f_object, fieldnames=field_names)
    dictwriter_object.writeheader()
-   for _ in range(100):
+   for _ in range(1000):
        dict={'IsFromCustomer':False,'Text':customsentence2(),'index':0} 
        print(dict)
        dictwriter_object.writerow(dict)
